@@ -2,6 +2,8 @@
 
 Criando um E-Commerce feito com Daniel da Hashtag no Intensivão de JavaScript.
 
+![design main](photo-projeto-1.jpg)
+
 # Ferramenta utilizadas:
 
 ## Vite
