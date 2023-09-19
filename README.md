@@ -6,10 +6,10 @@ Criando um E-Commerce feito com Daniel da Hashtag no Intensivão de JavaScript.
 
 ## Vite
 
-[Flex Grid](https://vitejs.dev/guide/)
+[Vite](https://vitejs.dev/guide/)
 
 Biblioteca utilizadas:
 
 ## Tailwind CSS
 
-[Flex Grid](https://tailwindui.com/documentation#requirements)
+[Tailwind](https://tailwindui.com/documentation#requirements)
