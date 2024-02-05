@@ -10,7 +10,7 @@ Criando um E-Commerce feito com Daniel da Hashtag no Intensivão de JavaScript.
 
 <img src="/assets/photo-disign/photo-projeto-2.jpg">
 
-# # Parte checkout
+# Parte checkout
 
 <img src="/assets/photo-disign/photo-projeto-3.jpg">
 
